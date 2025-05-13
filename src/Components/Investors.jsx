@@ -22,7 +22,7 @@ const Investors = () => {
     <div class="flip-card-back">
       <div class="Description">
         <p class="description">
-        We are a strategically focused company committed to delivering sustainable growth and innovation</p>
+        SG groups offers a diversify services in vellore. Focusing on mankind solutions</p>
         
       </div>
     </div>
