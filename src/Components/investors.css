@@ -114,8 +114,13 @@
 .investor-name{
   margin-top: 70px;
 }
-
-
+.chair{
+ margin-left: 60px;
+}
+.Gopi{
+ margin-left: 60px;
+ margin-top: -0.5rem;
+}
 
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);

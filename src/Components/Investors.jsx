@@ -23,8 +23,10 @@ const Investors = () => {
       <div class="Description">
         <p class="description">
         SG groups offers a diversify services in vellore. Focusing on mankind solutions</p>
-        
+         <h5 className="chair"> Chair By</h5> 
+       <p className="Gopi">Saranya Gopinath</p>
       </div>
+     
     </div>
   </div>
 </div>        
@@ -51,8 +53,9 @@ const Investors = () => {
     <div class="flip-card-back">
       <div class="Description">
         <p class="description">
-        We are a strategically focused company committed to delivering sustainable growth and innovation         </p>
-        
+       We are a strategic company committed to sustainable growth and innovation.         </p>
+        <h5 className="chair"> Chair By</h5> 
+       <p className="Gopi">Kathiravan Arumugam</p>
       </div>
     </div>
   </div>
