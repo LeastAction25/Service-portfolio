@@ -216,7 +216,7 @@ const Footer = () => {
         © {new Date().getFullYear()} Copyright:
         <a
           className="text-white hover-white fw-bold ms-1 text-decoration-none"
-          href="https://leastaction.com"
+          href="https://www.leastactioncompany.com"
           target="_blank"
           rel="noopener noreferrer"
         >
